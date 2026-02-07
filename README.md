@@ -1,7 +1,10 @@
 # Hi 👋, I'm Ivan
 
-🎯 **Trainee Frontend Developer**  
-I build responsive and user-friendly web interfaces using HTML, CSS, and JavaScript.
+🚀 **Ivan Kovalov – Front-End Developer**
+
+Front-End Developer specializing in building responsive and interactive web applications.
+
+I focus on clean code, modern UI development, and scalable front-end architecture.
 
 ---
 
@@ -16,10 +19,13 @@ I build responsive and user-friendly web interfaces using HTML, CSS, and JavaScr
 
 ## 🛠️ Tech Stack
 
-- **HTML5** — semantic markup  
-- **CSS3** — Flexbox, responsive design  
-- **JavaScript** — basics, DOM manipulation  
-- **Git & GitHub** — version control, GitHub Pages  
+- **JavaScript (ES6+)**
+- **React**
+- **HTML5**
+- **CSS3 / SCSS**
+- **Responsive Design**
+- **REST API basics**
+- **Git & GitHub** 
 
 ---
 
@@ -39,18 +45,50 @@ I build responsive and user-friendly web interfaces using HTML, CSS, and JavaScr
 
 ---
 
-## 📈 Goals
+### 🎮 2048 Game — Classic Logic-Based Puzzle
+**Interactive browser game built with JavaScript**
 
-- Deepen JavaScript knowledge
-- Build projects with more interactivity
-- Grow into a **Junior Frontend Developer** role
+🔗 Live Demo: https://IvanKovalyoff.github.io/Game-2048/  
+📁 Repository: https://github.com/IvanKovalyoff/Game-2048  
+
+**What it demonstrates:**
+- Game logic implementation
+- Matrix-based data handling
+- DOM manipulation
+- Event handling
+- Dynamic UI updates
+- Clean JavaScript structure
+
+---
+
+### 🛒 Gadget Store — Interactive E-commerce Interface
+**Responsive online store built with React**
+
+🔗 Live Demo: https://IvanKovalyoff.github.io/Gadget-store/  
+📁 Repository: https://github.com/IvanKovalyoff/Gadget-store  
+
+**What it demonstrates:**
+- Component-based architecture
+- Dynamic product rendering
+- State management
+- Responsive UI design
+- Scalable project structure
+- Modern JavaScript (ES6+)
+
+---
+
+## 📈 What I learned
+
+- Improved problem-solving skills
+- Better understanding of UI logic
+- Writing cleaner and more maintainable code
 
 ---
 
 ## 📫 Contact Me
 
 - GitHub: https://github.com/IvanKovalyoff  
-- LinkedIn: **  
+- LinkedIn: https://www.linkedin.com/in/ivan-kovalov-197759348 
 
 ---
 
