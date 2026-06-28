@@ -1,5 +1,5 @@
 ---
-# Hi, I'm Ivan Kovalov
+## Hi, I'm Ivan Kovalov
 
 **Junior Full-Stack Developer** — based in Poland, open to remote opportunities.
 
