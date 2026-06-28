@@ -1,31 +1,29 @@
-# Hi 👋, I'm Ivan
+---
+# Hi, I'm Ivan Kovalov
 
-🚀 **Ivan Kovalov – Front-End Developer**
+**Junior Full-Stack Developer** — based in Poland, open to remote opportunities.
 
-Front-End Developer specializing in building responsive and interactive web applications.
-
-I focus on clean code, modern UI development, and scalable front-end architecture.
+After 6 years as a professional butcher, I made a deliberate pivot into software
+development. For the past 1.5 years I've been building and shipping full-stack web
+applications with React, Next.js, and Firebase.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 Focused on **frontend development**
-- 📐 Strong interest in **layout, responsive design, and UI**
-- 🌱 Currently improving my **JavaScript** skills
-- 🚀 Looking for a **Trainee / Junior Frontend Developer** position
+- Career changer who brings precision and discipline from a previous trade
+- 1.5 years of hands-on development across 3 shipped projects
+- Building full-stack apps with React and Next.js
+- Looking for a **Junior Full-Stack / Junior Frontend Developer** position
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **JavaScript (ES6+)**
-- **React**
-- **HTML5**
-- **CSS3 / SCSS**
-- **Responsive Design**
-- **REST API basics**
-- **Git & GitHub** 
+**Frontend:** React 19, Next.js 16, HTML5, CSS3, JavaScript
+**Animation:** GSAP
+**Backend & Services:** Firebase, Stripe, Resend, Formspree
+**Tooling & Deployment:** Vite, Git, ESLint, Netlify
 
 ---
 
@@ -77,11 +75,32 @@ I focus on clean code, modern UI development, and scalable front-end architectur
 
 ---
 
-## 📈 What I learned
+### Brogram — Gym Workout Tracker
+A 30-session Push / Pull / Legs training program. Log weights for every exercise
+and unlock the next session only after completing the previous one.
 
-- Improved problem-solving skills
-- Better understanding of UI logic
-- Writing cleaner and more maintainable code
+**Stack:** React 19, Vite
+**GitHub:** https://github.com/IvanKovalyoff/Brogram
+
+---
+
+### IvKoff Store — Digital Goods Shop
+An online shop selling printable art planners and developer sti
+Add to cart and pay with a real card through a hosted Stripe checkout.
+
+**Stack:** Next.js 16, Stripe, Resend
+**Live:** https://ivkoff-store.netlify.app
+**GitHub:** https://github.com/IvanKovalyoff/IvKoff_Store
+
+---
+
+### Expenny — Subscription Tracker
+Keeps all your recurring payments in one place — Netflix, Spotify, gym memberships
+and more. See your real monthly total and renewal dates at a glance.
+
+**Stack:** Next.js 16, Firebase, GSAP
+**Live:** https://expenny-tracker.netlify.app
+**GitHub:** https://github.com/IvanKovalyoff/expenny
 
 ---
 
